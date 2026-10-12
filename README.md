@@ -9,7 +9,9 @@ A network information tool for exploring your computer's network. It's a lightwe
 
 # Platform Support
 - Windows
-- MacOS
+- macOS
+ 
+- Note: The executable in the GitHub Releases section is for Windows only. macOS users should run the Python source code using a compatible Python installation or a code editor, because a standalone macOS application has not been packaged yet.
 
 # Intended for
 - Learners in computer networking 
