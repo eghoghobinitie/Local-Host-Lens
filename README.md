@@ -7,6 +7,10 @@ A network information tool for exploring your computer's network. It's a lightwe
 - Display its default gateway
 - Checks internet connection
 
+# Platform Support
+- Windows
+- MacOS
+
 # Intended for
 - Learners in computer networking 
 - Junior Python developers
