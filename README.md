@@ -4,7 +4,7 @@ A network information tool for exploring your computer's network. It's a lightwe
 # Features 
 - Displays your computer name
 - Retrieves your computer's IP address
-- Display its default gateway
+- Display its default gateway and DNS information
 - Checks internet connection
 
 # Platform Support
