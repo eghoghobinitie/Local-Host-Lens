@@ -26,3 +26,6 @@ A network information tool for exploring your computer's network. It's a lightwe
 # To Get Started
 Download the Windows executable from the project's Releases page.
 Run the program and follow the prompts.
+
+# Security Notice
+The windows executable may trigger a Microsoft Defender SmartScreen warning because it is not digitally signed. This does not automatically mean this application is malicious, you can review the source code in the repository before running the executable. However, do remember that you should only run software you trust.  
